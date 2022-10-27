@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/cl-GeoSpatial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codelab-geospatial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/droid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/droidKot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/x/arcore-android-sdk-muestras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/x/display-nearby-places-ar-android-master/starter" vcs="Git" />
+  </component>
+</project>
